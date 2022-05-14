@@ -1,0 +1,9 @@
+INFO     WDM:logger.py:27 
+
+INFO     WDM:logger.py:27 ====== WebDriver manager ======
+INFO     WDM:logger.py:27 Could not get version for google-chrome.Is google-chrome installed?
+INFO     WDM:logger.py:27 Get LATEST chromedriver version for None google-chrome
+INFO     WDM:logger.py:27 There is no [win32] chromedriver for browser None in cache
+INFO     WDM:logger.py:27 Trying to download new driver from https://chromedriver.storage.googleapis.com/101.0.4951.41/chromedriver_win32.zip
+INFO     WDM:logger.py:27 Driver has been saved in cache [C:\Users\Sarang\.wdm\drivers\chromedriver\win32\101.0.4951.41]
+INFO     TestGoogle_test_google:google_test.py:12 Entering keyword in test 1
