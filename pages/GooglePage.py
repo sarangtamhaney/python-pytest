@@ -1,7 +1,5 @@
 import time
 
-from selenium.webdriver.common.by import By
-
 from Locators.Locators import GooglePageLocators
 from pages.BasePage import BasePage
 

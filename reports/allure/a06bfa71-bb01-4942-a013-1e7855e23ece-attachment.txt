@@ -1,6 +1,0 @@
-
-
-====== WebDriver manager ======
-Could not get version for google-chrome.Is google-chrome installed?
-Get LATEST chromedriver version for None google-chrome
-Driver [C:\Users\Sarang\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache

@@ -1,1 +1,0 @@
-INFO     TestGoogle_test_google_french:google_test.py:19 Entering keyword in test 2
